@@ -1,6 +1,6 @@
 # Richarduino V7.0
 ## VHDL files
-Most of the VHDL files in this project were written by my instructor, Dr. William Richard, from CSE 462M. I mostly understand them and am working on a SPI VHDL file that outputs data and clk to the U3 component, MAX9939, to change the gain of the input signals.
+Most of the VHDL files in this project were written by my instructor, Dr. William Richard, from CSE 462M. I implemented a SPI VHDL module that outputs data and clk to the U3 component, MAX9939, to change the gain of the input signals. In addition, I also implemented the XADC VHDL module that converts the input analog signal to data.
 
 ## ExpressSCH picture
 
