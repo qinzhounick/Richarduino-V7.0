@@ -11,4 +11,4 @@ Most of the VHDL files in this project were written by my instructor, Dr. Willia
 ![RicharduinoBoardLayout](https://github.com/qinzhounick/Richarduino-V7.0/assets/112423678/9c589207-7b33-43b0-87e6-31b1c7b28d1e)
 
 ## GUI Screenshot
-![RicharduinoGUI]((https://github.com/qinzhounick/Richarduino-V7.0/Richarduino_GUI.png)
+![RicharduinoGUI](https://github.com/qinzhounick/Richarduino-V7.0/blob/main/Richarduino_GUI.png)
